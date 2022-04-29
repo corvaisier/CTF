@@ -26,7 +26,7 @@ Start home server who listen.
 Dl a php reverse shell and put my ip address (ifconfig).
 Test differtents extensions files like .php5.
 Go to /upload and execute payload.
-In homer server : **locate *.txt** and find /var/www/user.txt
+In home server : locate *.txt and find /var/www/user.txt
 ### Conclusion
 Payload can be uploaded and executed in a simply way, use locate to find the first flag.
 
