@@ -1,5 +1,5 @@
 # THM - LazyAdmin
-**security - webapp - boot2root - cracking**
+**security - linux**
 
 ## Enumeration
 IP Address : 10.10.110.163
